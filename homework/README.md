@@ -14,4 +14,4 @@ Provide two distinct solutions for this assignment, utilizing for-loops exclusiv
 
 ## Solutions
 
-Check your solutions or find reference answers in the solutions zip file available in the current directory: [solutions.zip](./solutions.zip). There is no absolute one true answer to this homework, since there can be many variations of solutions to this problem. And please, do not cheat, I trust in you! Have fun and good luck!
+Check your solutions or find reference answers in the solutions zip file available in the current directory: [solutions.zip](./solutions.zip). There is no absolute one true answer to this homework, since there can be many variations of solutions to this problem. Have fun and good luck!

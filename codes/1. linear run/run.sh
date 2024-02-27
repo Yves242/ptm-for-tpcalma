@@ -1,1 +1,1 @@
-python3 linear-run.py
+python3 "linear-run.py"

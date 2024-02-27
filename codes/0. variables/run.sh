@@ -1,1 +1,1 @@
-python3 variables.py
+python3 "variables.py"

@@ -6,12 +6,8 @@ Write a Python program that takes a positive integer 'n' as input and prints a n
 
 For example, if 'n' is 6, the output should be:
 
-1
-1 2
-1 2 3
-1 2 3 4
-1 2 3 4 5
-1 2 3 4 5 6
+![image](https://github.com/Yves242/ptm-for-tpcalma/assets/70612985/4e76c3a4-ae10-40a1-9840-335c77f96b2f)
+
 
 
 Have fun and good luck!

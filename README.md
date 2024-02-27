@@ -19,7 +19,7 @@ Explore the `codes` directory to find examples related to various concepts and p
 
 ## Homework
 
-Find additional practice and challenges in the `homework` folder. These exercises are curated to further enhance your skills and provide opportunities for hands-on application of the concepts we discuss during our tutoring sessions. Feel free to explore and tackle these assignments at your own pace.
+Find additional practice and challenges in the `homework` folder. These exercises are curated to further enhance your skills and provide opportunities for hands-on application of the concepts we discussed during our tutoring sessions. Feel free to explore and tackle these assignments at your own pace. 
 
 ## Contact
 

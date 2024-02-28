@@ -99,6 +99,7 @@ print(num_variable)
 
 # check if done?
 if (num_variable == exit_value): 
+    print("If nagprint to, nagstop dito")
     exit(0)
 
 
